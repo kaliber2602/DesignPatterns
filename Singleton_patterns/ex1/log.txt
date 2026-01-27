@@ -1,0 +1,5 @@
+Written by Thread-3 | Logger content: Hello Thread-3
+Written by Thread-2 | Logger content: Hello Thread-2
+Written by Thread-1 | Logger content: Hello Thread-1
+Written by Thread-5 | Logger content: Hello Thread-5
+Written by Thread-4 | Logger content: Hello Thread-4
